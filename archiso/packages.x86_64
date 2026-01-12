@@ -138,7 +138,7 @@ zsh
 ###             VIA CALAMARES CONFIG                ###
 #######################################################
 
-alci-dwm
+#alci-dwm
 #alci-dwm-nemesis
 alci-calamares
 #alci-calamares-dev
