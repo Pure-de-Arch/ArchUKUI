@@ -273,3 +273,38 @@ git
 
 #grub theme
 alci-grub-theme-git
+
+## Desktop
+qt5-ukui-platformtheme
+ukui-biometric-auth
+ukui-control-center
+ukui-greeter
+ukui-interface
+ukui-media
+ukui-menu
+ukui-menus
+ukui-notebook
+ukui-notification-daemon
+ukui-panel
+ukui-power-manager
+ukui-screensaver
+ukui-session-manager
+ukui-settings-daemon
+ukui-sidebar
+ukui-system-monitor
+ukui-themes
+ukui-wallpapers
+ukui-window-switch
+
+
+#pop-launcher
+python
+
+wayland
+xorg-xwayland
+mesa
+vulkan-intel
+vulkan-radeon
+nvidia-open
+
+
